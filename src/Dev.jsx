@@ -12,8 +12,7 @@ export default function Dev() {
         Blanditiis, beatae soluta perferendis aperiam doloremque error quod nesciunt. Debitis itaque dolore sequi illo. Esse ipsa totam, quidem eius ad possimus odio, reiciendis aliquid nobis consectetur animi accusantium, temporibus sit?</p>
         <Feature1 />
         <Feature2 />
-        <p>Version 1.0 - create branch</p>
-        <p>Version 1.1 - add .CSS file to dev_branch</p>
+        <p>Version 1.3: do the squash commit</p>
     </div>
   )
 }
