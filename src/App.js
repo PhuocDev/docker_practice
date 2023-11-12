@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>Reacjs Practice with Docker</h1>
-      <h3>Main branch - This is also production branch</h3>
+      <h3>QA branch - This is mainly for testing</h3>
+      <p>Ver 1.0</p>
     </div>
   );
 }
