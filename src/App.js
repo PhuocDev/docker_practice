@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Reacjs Practice with Docker</h1>
       <Dev />
+      <h5>Created by Phuocdev</h5>
     </div>
   );
 }
