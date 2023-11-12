@@ -5,7 +5,7 @@ export default function Dev() {
     <>
         <h1>Dev branch</h1>
         <p>This is content of dev branch</p>
-        <p>Version 1.0</p>
+        <p>Version 1.0 - create branch</p>
     </>
   )
 }
