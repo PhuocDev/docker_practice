@@ -1,11 +1,13 @@
 
 import './App.css';
+import Dev from './Dev';
 
 function App() {
   return (
     <div className="App">
       <h1>Reacjs Practice with Docker</h1>
-      <h3>Main branch - This is also production branch</h3>
+      <Dev />
+      <h5>Created by Phuocdev</h5>
     </div>
   );
 }
