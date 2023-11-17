@@ -13,6 +13,8 @@ export default function Dev() {
         <Feature1 />
         <Feature2 />
         <p>Version 1.3: do the squash commit</p>
+        <p>Version 1.4: do the squash commit</p>
+        <p>Version 1.5: do the squash commit</p>
     </div>
   )
 }
